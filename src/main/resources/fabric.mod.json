@@ -30,6 +30,7 @@
 		"fabric-api": "*",
 		"owo": "*",
 		"lavender": "*",
+		"feyflower": ">=1.0.0-alpha.17",
 		"trickster": "*"
 	}
 }
