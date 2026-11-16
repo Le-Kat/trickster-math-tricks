@@ -29,8 +29,7 @@
 		"java": ">=21",
 		"fabric-api": "*",
 		"owo": "*",
-		"lavender": "*",
 		"feyflower": ">=1.0.0-alpha.17",
-		"trickster": "*"
+		"trickster": ">=2.0.0-beta.58"
 	}
 }
