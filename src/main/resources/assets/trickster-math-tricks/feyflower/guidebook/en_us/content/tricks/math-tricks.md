@@ -19,6 +19,6 @@ Executes math tricks identified by provided pattern. This is required to call an
 
 ;;;;;
 
-#<trickster:trick id="trickster-math-tricks:main_revision" />
+#<trickster:revision id="trickster-math-tricks:main_revision" />
 
 Runs math revisions identified by existing pattern in the circle. This is required to use any math revisions added by this mod.

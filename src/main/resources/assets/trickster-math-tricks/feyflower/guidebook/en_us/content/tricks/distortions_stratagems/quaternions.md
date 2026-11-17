@@ -1,0 +1,51 @@
+```json
+{
+  "title": "Quaternions",
+  "icon": "minecraft:firework_rocket",
+  "ordinal": 75
+}
+```
+
+This category provides specialized functionality for Quaternions. 
+
+;;;;;
+
+#<trickster:trick id="trickster:extract_x" />
+
+Returns the X component of the given fragment.
+
+;;;;;
+
+#<trickster:trick id="trickster:extract_y" />
+
+Returns the Y component of the given fragment.
+
+;;;;;
+
+#<trickster:trick id="trickster:extract_z" />
+
+Returns the Z component of the given fragment.
+
+;;;;;
+
+#<trickster:trick id="trickster-math-tricks:extract_w" />
+
+Returns the W component of the given fragment.
+
+;;;;;
+
+#<trickster:trick id="trickster:normalize" />
+
+Normalizes the given fragment to a length of one.
+
+;;;;;
+
+#<trickster:trick id="trickster:length" />
+
+Returns the length of the given fragment.
+
+;;;;;
+
+#<trickster:trick id="trickster-math-tricks:squared_magnitude" />
+
+Returns the squared length of the given fragment.
