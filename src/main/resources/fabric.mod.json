@@ -29,7 +29,6 @@
 		"java": ">=21",
 		"fabric-api": "*",
 		"owo": "*",
-		"feyflower": ">=1.0.0-alpha.17",
 		"trickster": ">=2.0.0-beta.58"
 	}
 }

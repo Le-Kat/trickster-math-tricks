@@ -13,12 +13,12 @@ This mod adds only 2 tricks/revisions to the base mod, they have to be used to u
 
 ;;;;;
 
-#<trickster:trick id="trickster:trickster-math-tricks:math_lib" />
+#<trickster:trick id="trickster-math-tricks:math_lib" />
 
 Executes math tricks identified by provided pattern. This is required to call any math tricks added by this addon.
 
 ;;;;;
 
-#<trickster:trick id="trickster:trickster-math-tricks:main_revision" />
+#<trickster:trick id="trickster-math-tricks:main_revision" />
 
 Runs math revisions identified by existing pattern in the circle. This is required to use any math revisions added by this mod.
